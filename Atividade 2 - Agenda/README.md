@@ -1,0 +1,2 @@
+# Atividade - Agenda
+Nesta atividade, foi desenvolvido um projeto Java para simular um agendamento diário e pessoal, utilizando conceitos de orientação a objetos. Foram criadas as classes `Pessoa`, `Agendamento` e `Agenda`, com métodos para adicionar, buscar e excluir agendamentos, validando conflitos de horário. A interação ocorre via `JOptionPane`, e a classe principal organiza o menu e a execução do programa.
