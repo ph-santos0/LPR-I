@@ -1,5 +1,3 @@
-# Sistema Lanchonete Ota's 🍔
-
 ## Link do Sistema 👇
 O repositório original do **Sistema Lanchonete Ota's** foi movido para um novo endereço.
 
